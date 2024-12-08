@@ -1,2 +1,1 @@
-**data-structures-final-exam** // Change the content later...
-This repository contains my group's solution implementation of data structures for the final exam of the course. It was designed by me, and my friend, Gabriel.
+# Atividade de Estrutura de dados do semestre 2024.2
